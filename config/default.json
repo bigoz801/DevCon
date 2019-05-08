@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://helio:helio123@ds227664.mlab.com:27664/ihopethisworks",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}
